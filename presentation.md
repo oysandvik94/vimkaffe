@@ -42,9 +42,9 @@ Kan debugge, HTTP klient, DB klient
 
 # Hvorfor vim?
 
-- Smidig, uten bloat
+- Smidig, uten bloat, men masse features
 ***
-- I terminalen
+- Veldig gøy
 ***
 - Tastatur-sentrert
 ***
@@ -74,7 +74,7 @@ Tilpass editoren din etter deg, og ikke motsatt
  
 # Hvorfor vim?
 
-**Man kan kode mye raskere**
+**Man kan editere kode mye raskere**
 
 > Edit Text at the Speed of Thought 
 > -- Drew Neil
@@ -98,6 +98,7 @@ Vim har flere moduser som styrer hva knapper gjør
 
 --- 
 Mesteparten av tiden *editerer* vi kode
+Vim gjør dette enklere
 
 ***
 
