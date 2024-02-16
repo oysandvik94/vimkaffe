@@ -19,7 +19,7 @@
 
 ***
 
-## Arkansk og foreldet?
+## Arkansk, en meme?
 
 /// Ta opp myter og memes
 
@@ -42,6 +42,8 @@ Kan debugge, HTTP klient, DB klient
 
 # Hvorfor vim?
 
+***
+
 - Smidig, uten bloat, men masse features
 ***
 - Veldig gøy
@@ -55,15 +57,13 @@ Kan debugge, HTTP klient, DB klient
 /// Hvis man lærer seg det som er bak abstraheringen er man bedre utstyrt for debugging etc
 
 
---- 
+---
 
 # De 2 viktigste tingene
 
 ---
 
-# Hvorfor vim?
-
-**Man kan lage sitt eget arbeidsmiljø**
+# Man kan lage sitt eget arbeidsmiljø
 
 Tilpass editoren din etter deg, og ikke motsatt
 
@@ -72,9 +72,7 @@ Tilpass editoren din etter deg, og ikke motsatt
 *Personalized Development Environment*
 ---
  
-# Hvorfor vim?
-
-**Man kan editere kode mye raskere**
+# Man kan editere kode mye raskere
 
 > Edit Text at the Speed of Thought 
 > -- Drew Neil
@@ -137,6 +135,8 @@ Vim har et "språk" for å utrykke endringer
 
 - i,a I,A o,O
 
+***
+
 ## Normal mode
 
 - d,c
@@ -190,7 +190,10 @@ La oss ta den blå pillen
 
 ---
 
-# Vimkaffe
+# Neste steg
 
 - Vimtutor
+```bash
+vimtutor
+```
 - Vim mode i editoren din
